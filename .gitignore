@@ -1,0 +1,14 @@
+idea
+*.DS_Store
+*/node_modules/
+node_modules/*
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/jsLibraryMappings.xml
+.idea/encodings.xml
+.idea/dictionaries/TSM_zhu.xml
+.idea/compiler.xml
+.idea/bn-ui.iml
+/node_modules/
